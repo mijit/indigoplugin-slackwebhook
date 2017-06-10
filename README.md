@@ -1,0 +1,32 @@
+indigo-slackwebhook
+===================
+
+[Indigo Domotics](http://www.perceptiveautomation.com/indigo/index.html) plugin  - send push notifications to [Slack](https://www.slack.com) via a WebHook.
+
+
+Requirements
+------------
+
+1. [Indigo Domotics](http://www.perceptiveautomation.com/indigo/index.html) - built on Indigo 7 pro-version
+2. Valid Slack [Incoming WebHook](https://api.slack.com/incoming-webhooks)
+
+
+Installation Instructions
+-------------------------
+
+1. Download latest release [here](https://github.com/mijit/indigo-slackwebhook/releases)
+2. Follow [standard plugin installation process](http://wiki.indigodomo.com/doku.php?id=indigo_7_documentation:getting_started#installing_plugins_configuring_plugin_settings_permanently_removing_plugins)
+
+
+Actions Supported
+-----------------
+* Send to any channel, with per-action text and icon emoji
+
+
+See Also
+--------
+
+* [Indigo Plugin Documents](http://wiki.indigodomo.com/doku.php?id=indigo_7_documentation:documents#indigo_plugin_documents)
+* [Actions.xml](http://wiki.indigodomo.com/doku.php?id=indigo_7_documentation:plugin_guide#actionsxml)
+* [PluginConfig.xml](http://wiki.indigodomo.com/doku.php?id=indigo_7_documentation:plugin_guide#pluginconfigxml)
+* [plugin.py](http://wiki.indigodomo.com/doku.php?id=indigo_7_documentation:plugin_guide#pluginpy)

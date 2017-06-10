@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<PluginConfig>
+    <SupportURL>https://github.com/mijit/indigoplugin-slackwebhook/issues</SupportURL>
+    <Field id="cfgWebhookURL" type="textfield" default="">
+        <Label>Webhook URL</Label>
+    </Field>
+    <Field id="hlpCfgWebhookURL" type="label" fontSize="mini" alignWithControl="true">
+        <Label>e.g. https://hooks.slack.com/services/WEBHOOKTOKEN</Label>
+    </Field>
+    <Field id="cfgDebug" type="checkbox" defaultValue="false">
+        <Label>Debug</Label>
+        <Description>Log debugging info</Description>
+    </Field>
+    <Field id="hlpCfgDebug" type="label" fontSize="mini" alignWithControl="true">
+        <Label>Note: requires plugin reload</Label>
+    </Field>
+</PluginConfig>

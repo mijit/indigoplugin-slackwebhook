@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Actions>
+    <Action id="notify" uiPath="NotificationActions">
+        <Name>Slack Webhook</Name>
+        <CallbackMethod>notify</CallbackMethod>
+        <ConfigUI>
+            <Field id="cfgText" type="textfield" default="">
+                <Label>Message</Label>
+            </Field>
+            <Field id="hlpCfgText" type="label" fontSize="mini" alignWithControl="true">
+                <Label>Requred</Label>
+            </Field>
+            <Field id="cfgChannel" type="textfield" default="">
+                <Label>Channel</Label>
+            </Field>
+            <Field id="hlpCfgChannel" type="label" fontSize="mini" alignWithControl="true">
+                <Label>e.g. "#general" (leave blank to use webhook preference)</Label>
+            </Field>
+            <Field id="cfgIcon" type="textfield" default="">
+                <Label>Icon</Label>
+            </Field>
+            <Field id="hlpCfgIcon" type="label" fontSize="mini" alignWithControl="true">
+                <Label>e.g.: ":ghost:" (leave blank to use webhook preference")</Label>
+            </Field>
+            <SupportURL>https://github.com/mijit/indigoplugin-slackwebhook/issues</SupportURL>
+        </ConfigUI>
+    </Action>
+</Actions>
