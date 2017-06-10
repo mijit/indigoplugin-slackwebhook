@@ -23,10 +23,7 @@ Actions Supported
 * Send to any channel, with per-action text and icon emoji
 
 
-See Also
---------
+Developer Info
+--------------
 
 * [Indigo Plugin Documents](http://wiki.indigodomo.com/doku.php?id=indigo_7_documentation:documents#indigo_plugin_documents)
-* [Actions.xml](http://wiki.indigodomo.com/doku.php?id=indigo_7_documentation:plugin_guide#actionsxml)
-* [PluginConfig.xml](http://wiki.indigodomo.com/doku.php?id=indigo_7_documentation:plugin_guide#pluginconfigxml)
-* [plugin.py](http://wiki.indigodomo.com/doku.php?id=indigo_7_documentation:plugin_guide#pluginpy)
