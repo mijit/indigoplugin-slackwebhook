@@ -14,7 +14,7 @@ Requirements
 Installation Instructions
 -------------------------
 
-1. Download latest release [here](https://github.com/mijit/indigo-slackwebhook/releases)
+1. Download latest release [here](https://github.com/talarczykco/indigo-slackwebhook/releases)
 2. Follow [standard plugin installation process](http://wiki.indigodomo.com/doku.php?id=indigo_7_documentation:getting_started#installing_plugins_configuring_plugin_settings_permanently_removing_plugins)
 
 
