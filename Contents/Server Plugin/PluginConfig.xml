@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <PluginConfig>
-    <SupportURL>https://github.com/mijit/indigoplugin-slackwebhook/issues</SupportURL>
+    <SupportURL>https://github.com/talarczykco/indigoplugin-slackwebhook/issues</SupportURL>
     <Field id="cfgWebhookURL" type="textfield" default="">
         <Label>Webhook URL</Label>
     </Field>

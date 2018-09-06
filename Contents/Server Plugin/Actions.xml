@@ -22,7 +22,7 @@
             <Field id="hlpCfgIcon" type="label" fontSize="mini" alignWithControl="true">
                 <Label>e.g.: ":ghost:" (leave blank to use webhook preference")</Label>
             </Field>
-            <SupportURL>https://github.com/mijit/indigoplugin-slackwebhook/issues</SupportURL>
+            <SupportURL>https://github.com/talarczykco/indigoplugin-slackwebhook/issues</SupportURL>
         </ConfigUI>
     </Action>
 </Actions>
