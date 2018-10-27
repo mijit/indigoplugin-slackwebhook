@@ -1,7 +1,7 @@
 indigo-slackwebhook
 ===================
 
-[Indigo Domotics](http://www.perceptiveautomation.com/indigo/index.html) plugin  - send push notifications to [Slack](https://www.slack.com) via a WebHook.
+[Indigo Domotics](http://www.indigodomo.com/index.html) plugin  - send push notifications to [Slack](https://www.slack.com) via a WebHook.
 
 
 Requirements
